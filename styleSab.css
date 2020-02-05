@@ -22,6 +22,45 @@
     display: inline-block;
     border: 1px solid white;
     margin: 0 auto;
-    margin-left: 60px; 
-    margin-bottom: 30px;
+    margin-left: 200px; 
+    margin-bottom: 150px;
+    margin-top: 50px;
+}
+
+
+.CDdesigin_img{
+    display: inline-block;
+    border: 1px solid white;
+    margin: 0 auto;
+    margin-left: 180px; 
+    margin-bottom: 150px;
+    margin-top: 50px;
+}
+
+
+.banardesigin1_img{
+    display: inline-block;
+    border: 1px solid white;
+    margin: 0 auto;
+    margin-left: 20px; 
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+.banardesigin2_img{
+    display: inline-block;
+    border: 1px solid white;
+    margin-left: 700px; 
+    margin-top: -950px;
+     margin-bottom: 150px;
+    
+}
+
+
+.cafedesigin_img{
+   display: inline-block;
+    border: 1px solid white;
+    margin: 0 auto;
+    margin-left: 290px; 
+    margin-bottom: 150px;
+    margin-top: 50px;  
 }
