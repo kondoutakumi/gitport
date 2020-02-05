@@ -234,7 +234,7 @@ footer p{
   visibility: hidden;
   transition: all .6s;
   cursor: pointer;
-    z-index: ;
+    z-index: 1;
 }
 /* 表示された時用のCSS */
 .nav-open .global-nav {
